@@ -1,0 +1,22 @@
+{
+  "name": "hackingly",
+  "version": "1.0.0",
+  "description": "This app is for citizens to report potholes, abondon vehicle and garbage using photos and location data , using OCR model for detail extraction and report transmission to RTO and municipal authorities for streamlined verification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananya227/Hackingly_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananya227/Hackingly_project/issues"
+  },
+  "homepage": "https://github.com/Ananya227/Hackingly_project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
